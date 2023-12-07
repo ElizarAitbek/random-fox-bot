@@ -1,7 +1,7 @@
 {
   "functions": {
     "services/*.js": {
-      "runtime": "nodejs21"
+      "runtime": "now-node@1.0.0"
     }
   }
 }
