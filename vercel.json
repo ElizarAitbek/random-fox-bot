@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "services/*.js": {
+      "runtime": "nodejs21"
+    }
+  }
+}
