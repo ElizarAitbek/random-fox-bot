@@ -1,6 +1,4 @@
 {
-  "version": 2,
-  "framework": "nodejs",
   "functions": {
     "services/*.js": {
       "runtime": "now-node@21.1.0"
