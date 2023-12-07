@@ -1,6 +1,6 @@
 {
   "functions": {
-    "services/*.js": {
+    "api/*.js": {
       "runtime": "now-node@21.1.0"
     }
   }

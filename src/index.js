@@ -1,5 +1,5 @@
 const { bot } = require("../settings/bot");
-const { getRandomFoxImage } = require("../services/getPhoto.js");
+const { getRandomFoxImage } = require("../api/getPhoto.js");
 
 bot.onText(/\/start/, (msg) => {
   const chatId = msg.chat.id;
